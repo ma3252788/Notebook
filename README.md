@@ -1,2 +1,5 @@
 # Notebook
-My notes based on the Typora and Github
+My notes based on the Typora and GitHub
+
+
+
