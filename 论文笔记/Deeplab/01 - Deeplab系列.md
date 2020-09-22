@@ -38,7 +38,9 @@
 
 * 模型示意图：
 
-<img src="..\Deeplab\assets\01 - Deeplab系列\2b86f35d-6a63-46a9-bbac-327d3ee9bb2e.jpg" alt="img" style="zoom:85%;" />
+<div align="center">
+    <img src="..\Deeplab\assets\01 - Deeplab系列\2b86f35d-6a63-46a9-bbac-327d3ee9bb2e.jpg" alt="img" style="zoom:85%;" />
+</div>
 
 #### (2) 模型解决的问题
 
