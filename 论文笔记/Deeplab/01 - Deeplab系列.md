@@ -39,7 +39,7 @@
 * 模型示意图：
 
 <div align="center">
-    <img src="..\Deeplab\assets\01 - Deeplab系列\2b86f35d-6a63-46a9-bbac-327d3ee9bb2e.jpg" alt="img" style="zoom:85%;" />
+    <img src="..\Deeplab\assets\01 - Deeplab系列\2b86f35d-6a63-46a9-bbac-327d3ee9bb2e.jpg" alt="img" width=800 />
 </div>
 
 #### (2) 模型解决的问题
@@ -71,7 +71,9 @@
 
 * 模型示意图（`Any difference between DeepLabV1?`）：
 
-  <img src="..\Deeplab\assets\01 - Deeplab系列\806c135a-4957-4f76-907b-6baa9c984982.jpg" alt="img"  align="center" style="zoom:90%;"/>
+  <div align="center">
+      <img src="..\Deeplab\assets\01 - Deeplab系列\806c135a-4957-4f76-907b-6baa9c984982.jpg" alt="img"  align="center" width=800/>
+  </div>
 
 #### (2) 模型解决的问题
 
@@ -79,7 +81,9 @@
 
 * 针对**图像中同一类物体存在不同的尺度**这一特点，V2中提出ASPP模块，对同一特征图并行地用多个不同扩张率（6，12，18，24）的空洞卷积进行处理然后进行特征融合。使用多尺度进行空洞卷积，在经过1*1的卷积之后连接起来。多尺度特征提取，得到全局和局部特征：
 
-  <img src="..\Deeplab\assets\01 - Deeplab系列\0.391306651716615.png" alt="img" style="zoom:90%;" align="center" />
+  <div align="center">
+      <img src="..\Deeplab\assets\01 - Deeplab系列\0.391306651716615.png" alt="img" width=500 />
+  </div>
 
 <br>
 
