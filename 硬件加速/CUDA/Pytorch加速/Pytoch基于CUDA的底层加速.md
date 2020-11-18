@@ -65,5 +65,5 @@ pip install torch==1.7.0 torchvision==0.8.0 [-i https://pypi.douban.com/simpe]
 * Pytorch源码小记-卷积 | [知乎：霖霖霖](https://zhuanlan.zhihu.com/p/83517817)
 * Pytoch扩展优质模块：Pytorch-Encoding | [Github: zhanghang1989](https://link.zhihu.com/?target=https%3A//github.com/zhanghang1989/Pytorch-Encoding)
 * Implemented convolution based on CUDA extensions in PyTorch | [Github: huangtinglin](https://github.com/huangtinglin/PyTorch-extension-Convolution)
-* Pytorch源码浅析(1): THTensor | [NIUHE](https://www.52coding.com.cn/2019/05/05/PyTorch1/)
+* Pytorch源码浅析(3)：NN | [NIUHE](https://www.52coding.com.cn/2019/05/05/PyTorch3/)
 * PyTorch源码浅析（大佬系列）| [知乎：罗秀哲](https://zhuanlan.zhihu.com/p/34629243)
