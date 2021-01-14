@@ -1,0 +1,13 @@
+Boot successfully repaired.
+
+Please write on a paper the following URL:
+http://paste.ubuntu.com/p/2f7XNF37D8/
+
+
+In case you still experience boot problem, indicate this URL to:
+boot.repair@gmail.com or to your favorite support forum.
+
+You can now reboot your computer.
+
+Please do not forget to make your BIOS boot on the removable disk!
+Please set your BIOS in Legacy mode in order to start your Ubuntu 18.04.5 LTS, then type command [sudo update-grub] in order to add the Windows entry to your GRUB menu.
