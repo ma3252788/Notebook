@@ -143,7 +143,11 @@
   <img src="https://markdow-picbed.oss-cn-beijing.aliyuncs.com/img/image-20210118205021297.png" width=800>    
   </div>
 
+* 输入 **reboot** 重启，**以正常模式进入 ubuntu**，打开终端输入 nvidia-smi，出现以下提示，说明安装成功。
 
+  <div align="center">
+  <img src="https://markdow-picbed.oss-cn-beijing.aliyuncs.com/img/image-20210118210143676.png" width=800>    
+  </div>
 
 ### 3.2 驱动升降级
 
