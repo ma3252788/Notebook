@@ -155,7 +155,7 @@
 
 
 
-## 五、参考链接
+## 四、参考链接
 
 * [1] Ubuntu16.04配置CUDA开发环境 | [CSDN](https://blog.csdn.net/yjj546542806/article/details/79016404)
 * [2] ubuntu16.04更新nvidia驱动的两种方法 | [CSDN](https://blog.csdn.net/u010420283/article/details/104020531)
