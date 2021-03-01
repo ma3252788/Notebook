@@ -19,7 +19,11 @@ My notes based on the Typora and GitHub
 ### 3、硬件加速
 
 - [ ] CUDA
-- [ ] Movidius (VPU)
+- [x] Movidius (VPU)
+  - [x] OpenVINO在Ubuntu的安装及配置
+  - [x] 编译 Tensorflow 模型并部署执行
+  - [x] OpenVINO's Inference Engine
+  - [x] 编译模型发现的问题及Bug
 
 ### 4、讲义资料
 
