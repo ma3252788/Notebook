@@ -177,16 +177,15 @@
                           Disables default translation from NHWC to NCHW
   ```
 
-*  在这里比较值得注意的参数： 
+* 在这里比较值得注意的参数： 
 
-  * --input_meta_graph 输入的图：cnn_model.ckpt.meta
-
-  * --output_dir 输出的 .xml, .bin 文件输出的位置
-  * --input  输入节点名: x-input
-
-  * --output 输出节点名: layer8-fc2/Softmax
-
-  * --input_shape 输入矩阵的大小: [1,28,28,1] (注意不能有空格，使用 placeholder 时需要定义该参数)
+  ```shell
+  --input_meta_graph 输入的图：cnn_model.ckpt.meta
+  --output_dir 输出的 .xml, .bin 文件输出的位置
+  --input  输入节点名: x-input
+  --output 输出节点名: layer8-fc2/Softmax
+  --input_shape 输入矩阵的大小: [1,28,28,1] (注意不能有空格，使用 placeholder 时需要定义该参数)
+  ```
 
 * 注意要点
 

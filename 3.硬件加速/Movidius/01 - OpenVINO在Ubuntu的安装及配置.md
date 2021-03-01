@@ -3,9 +3,9 @@
 * 以下笔记是本科时的毕业设计时，基于**Movidius V2**的神经棒做**神经网络加速推理**，并在使用过程中对遇到的**安装步骤**和**使用问题**做的一些笔记和记录。因为之前采用为知笔记进行记录，笔记也很乱，因此趁着闲暇时间整理成Markdown格式的文档，方便以后查阅。当时使用的稳定版本为**OpenVINO 2018 R4**，目前英特尔已经对此更新了很多版本，增加了很多功能。对新版本的使用笔记将在后续有更多闲暇时更新...
 
 * 其余三篇笔记分别是：
-  * [02 - 编译 Tensorflow 模型并部署执行.md](./02 - 编译 Tensorflow 模型并部署执行.md)
-  * [03 - OpenVINO's Inference Engine.md](./03 - OpenVINO's Inference Engine.md)
-  * [04 - 编译模型发现的问题及Bug.md](./04 - 编译模型发现的问题及Bug.md)
+  * **02 - 编译 Tensorflow 模型并部署执行.md**
+  * **03 - OpenVINO's Inference Engine.md**
+  * **04 - 编译模型发现的问题及Bug.md**
 
 
 
