@@ -1,4 +1,5 @@
 # Notebook
+
 My notes based on the Typora and GitHub
 
 
@@ -15,6 +16,9 @@ My notes based on the Typora and GitHub
 * [x] 旋转目标检测：遥感方向，截止2020年10月（总结了部分方法）
 * [x] 语义分割网络
   * [x] Deeplab系列：Deeplab, Deeplab V2, Deeplab V3, Deeplab V3+
+* [ ] 图像理解
+  * [ ]  如何在神经网络中表征局部-整体层次结构（Hinton）
+  * [ ] 关于频域学习
 
 ### 3、硬件加速
 
