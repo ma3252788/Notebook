@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="kmp" targetName="kmp" />
@@ -12,36 +30,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62fd709a-3fb9-46bd-8ca9-e6a9a129c473" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../1.环境配置/CUDA/Ubuntu下的CUDA环境升降级 .md" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/CUDA/Ubuntu下的CUDA环境升降级 .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1.环境配置/GRUB/Window&amp;Ubuntu双系统引导.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/GRUB/Window&amp;Ubuntu双系统引导.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.error.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.succeed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.succeed.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/图像理解/01 - 如何在神经网络中表征局部-整体层次结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/图像理解/01 - 如何在神经网络中表征局部-整体层次结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/图像理解/02 - 关于频域学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/图像理解/02 - 关于频域学习.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月(语雀).md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月(语雀).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/语义分割/01 - Deeplab系列.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/语义分割/01 - Deeplab系列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/CUDA/CUDA编程/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/CUDA/CUDA编程/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytoch基于CUDA的底层加速.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytoch基于CUDA的底层加速.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytorch加速/Pytoch基于CUDA的底层加速.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytorch加速/Pytoch基于CUDA的底层加速.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/01 - OpenVINO在Ubuntu的安装及配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/01 - OpenVINO在Ubuntu的安装及配置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/02 - 编译 Tensorflow 模型并部署执行.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/02 - 编译 Tensorflow 模型并部署执行.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/03 - OpenVINO's Inference Engine.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/03 - OpenVINO's Inference Engine.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/04 - 编译模型发现的问题及Bug.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/04 - 编译模型发现的问题及Bug.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/1.C++基础入门/C++基础入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/1.C++基础入门/C++基础入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/2.C++核心编程/C++核心编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/2.C++核心编程/C++核心编程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/3.C++提高编程/C++提高编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/3.C++提高编程/C++提高编程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/.idea/KMP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KMP/kmp.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kmp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/kmp.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,38 +113,73 @@
       <updated>1615304979857</updated>
       <workItem from="1615304992298" duration="3946000" />
       <workItem from="1615346254450" duration="919000" />
-      <workItem from="1615347787708" duration="619000" />
+      <workItem from="1615347787708" duration="13916000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="167" y="127" width="1653" height="853" key="DiffContextDialog" timestamp="1615367356164">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="127" width="1653" height="853" key="DiffContextDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615367356164" />
     <state x="2662" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1615347805709">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2662" y="301" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615347805709" />
-    <state width="1799" height="272" key="GridCell.Tab.0.bottom" timestamp="1615347175562">
+    <state width="1799" height="326" key="GridCell.Tab.0.bottom" timestamp="1615382737665">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1799" height="272" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
-    <state width="1799" height="272" key="GridCell.Tab.0.center" timestamp="1615347175562">
+    <state width="1799" height="326" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737665" />
+    <state width="1799" height="326" key="GridCell.Tab.0.center" timestamp="1615382737664">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1799" height="272" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
-    <state width="1799" height="272" key="GridCell.Tab.0.left" timestamp="1615347175562">
+    <state width="1799" height="326" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737664" />
+    <state width="1799" height="326" key="GridCell.Tab.0.left" timestamp="1615382737664">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1799" height="272" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
-    <state width="1799" height="272" key="GridCell.Tab.0.right" timestamp="1615347175562">
+    <state width="1799" height="326" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737664" />
+    <state width="1799" height="326" key="GridCell.Tab.0.right" timestamp="1615382737664">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1799" height="272" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
+    <state width="1799" height="326" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737664" />
+    <state width="1799" height="326" key="GridCell.Tab.1.bottom" timestamp="1615382737665">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="326" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737665" />
+    <state width="1799" height="326" key="GridCell.Tab.1.center" timestamp="1615382737665">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="326" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737665" />
+    <state width="1799" height="326" key="GridCell.Tab.1.left" timestamp="1615382737665">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="326" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737665" />
+    <state width="1799" height="326" key="GridCell.Tab.1.right" timestamp="1615382737665">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="326" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615382737665" />
     <state x="919" y="152" width="1001" height="737" key="SettingsEditor" timestamp="1615347128076">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="2361" y="175" width="1037" height="737" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615346309803" />
     <state x="919" y="152" width="1001" height="737" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347128076" />
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1615363496053">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615363496053" />
   </component>
 </project>
