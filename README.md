@@ -1,6 +1,8 @@
 # Notebook
 
-My notes based on the Typora and GitHub
+本仓库是人基于 Github 和 Typora 创建的笔记库。主要记录了一些**软硬开发的经验**、**论文和开发笔记**和**部分手写的代码**，方便后续查阅和复习。
+
+> 按时挖坑，不时更新...
 
 
 
@@ -24,13 +26,16 @@ My notes based on the Typora and GitHub
 
 - [ ] CUDA
 - [x] Movidius (VPU)
-  - [x] OpenVINO在Ubuntu的安装及配置
-  - [x] 编译 Tensorflow 模型并部署执行
-  - [x] OpenVINO's Inference Engine
-  - [x] 编译模型发现的问题及Bug
+  - [x] 1.OpenVINO在Ubuntu的安装及配置
+  - [x] 2.编译 Tensorflow 模型并部署执行
+  - [x] 3.OpenVINO's Inference Engine
+  - [x] 4.编译模型发现的问题及Bug
 
 ### 4、讲义资料
 
 - [x] C++ 讲义资料（itheima）：基础入门、核心编程、提高编程
 
-  
+### 5、手撕代码
+
+- [x] 1.KMP 算法：一种改进的字符串匹配算法，尽量减少模式串与主串的匹配次数以达到快速匹配的目的。
+- [x] 2.基2 FFT 算法：采用查找表实现的基2 FFT算法，32位 float 精度；查找表保存在 FLASH 区域，适用于大容量的嵌入式设备。

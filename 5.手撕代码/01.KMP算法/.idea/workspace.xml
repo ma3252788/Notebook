@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="kmp" targetName="kmp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62fd709a-3fb9-46bd-8ca9-e6a9a129c473" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../1.环境配置/CUDA/Ubuntu下的CUDA环境升降级 .md" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/CUDA/Ubuntu下的CUDA环境升降级 .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.环境配置/GRUB/Window&amp;Ubuntu双系统引导.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/GRUB/Window&amp;Ubuntu双系统引导.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.succeed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.环境配置/GRUB/src/boor-repir.succeed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/图像理解/01 - 如何在神经网络中表征局部-整体层次结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/图像理解/01 - 如何在神经网络中表征局部-整体层次结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/图像理解/02 - 关于频域学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/图像理解/02 - 关于频域学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月(语雀).md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月(语雀).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/旋转目标检测/旋转目标检测笔记概述 - 2020年10月.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.论文笔记/语义分割/01 - Deeplab系列.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.论文笔记/语义分割/01 - Deeplab系列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/CUDA/CUDA编程/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/CUDA/CUDA编程/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytoch基于CUDA的底层加速.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytoch基于CUDA的底层加速.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytorch加速/Pytoch基于CUDA的底层加速.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/CUDA/Pytorch加速/Pytoch基于CUDA的底层加速.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/01 - OpenVINO在Ubuntu的安装及配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/01 - OpenVINO在Ubuntu的安装及配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/02 - 编译 Tensorflow 模型并部署执行.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/02 - 编译 Tensorflow 模型并部署执行.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/03 - OpenVINO's Inference Engine.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/03 - OpenVINO's Inference Engine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.硬件加速/Movidius/04 - 编译模型发现的问题及Bug.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.硬件加速/Movidius/04 - 编译模型发现的问题及Bug.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/1.C++基础入门/C++基础入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/1.C++基础入门/C++基础入门.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/2.C++核心编程/C++核心编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/2.C++核心编程/C++核心编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/3.C++提高编程/C++提高编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.讲义资料/C++讲义/3.C++提高编程/C++提高编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/.idea/KMP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMP/kmp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/KMP.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pY3YqjHlp2SnJoBNl5JS1MT7kF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02.基2FFT" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\14 - Projects\Notebook\5.手撕代码\KMP" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kmp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kmp" TARGET_NAME="kmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kmp" RUN_TARGET_NAME="kmp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62fd709a-3fb9-46bd-8ca9-e6a9a129c473" name="Default Changelist" comment="" />
+      <created>1615304979857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615304979857</updated>
+      <workItem from="1615304992298" duration="3946000" />
+      <workItem from="1615346254450" duration="919000" />
+      <workItem from="1615347787708" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2662" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1615347805709">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2662" y="301" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615347805709" />
+    <state width="1799" height="272" key="GridCell.Tab.0.bottom" timestamp="1615347175562">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="272" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
+    <state width="1799" height="272" key="GridCell.Tab.0.center" timestamp="1615347175562">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="272" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
+    <state width="1799" height="272" key="GridCell.Tab.0.left" timestamp="1615347175562">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="272" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
+    <state width="1799" height="272" key="GridCell.Tab.0.right" timestamp="1615347175562">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="272" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347175562" />
+    <state x="919" y="152" width="1001" height="737" key="SettingsEditor" timestamp="1615347128076">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="2361" y="175" width="1037" height="737" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615346309803" />
+    <state x="919" y="152" width="1001" height="737" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615347128076" />
+  </component>
+</project>

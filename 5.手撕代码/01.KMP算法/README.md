@@ -6,7 +6,7 @@
 
 ## 一、运行环境
 
-* 编译环境：Windows / Clion / CMake
+* 编译环境：Ubuntu18.04 / Clion / CMake
 * 编程语言：C++
 
 ## 二、代码实现
