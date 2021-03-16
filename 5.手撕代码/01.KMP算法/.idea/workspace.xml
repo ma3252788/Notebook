@@ -31,9 +31,6 @@
   <component name="ChangeListManager">
     <list default="true" id="62fd709a-3fb9-46bd-8ca9-e6a9a129c473" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/kmp.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02.基2FFT" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Nutstore Files/面试试题/2021-03-15 阿里云/test01" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,11 +81,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="kmp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kmp" TARGET_NAME="kmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kmp" RUN_TARGET_NAME="kmp">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -114,6 +106,7 @@
       <workItem from="1615304992298" duration="3946000" />
       <workItem from="1615346254450" duration="919000" />
       <workItem from="1615347787708" duration="13916000" />
+      <workItem from="1615806095362" duration="73000" />
     </task>
     <servers />
   </component>
@@ -130,16 +123,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="167" y="127" width="1653" height="853" key="DiffContextDialog" timestamp="1615367356164">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="127" width="1653" height="853" key="DiffContextDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615367356164" />
-    <state x="2662" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1615347805709">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="783" y="320" width="424" height="491" key="FileChooserDialogImpl" timestamp="1615806166748">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="2662" y="301" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615347805709" />
+    <state x="783" y="320" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615806166748" />
     <state width="1799" height="326" key="GridCell.Tab.0.bottom" timestamp="1615382737665">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
