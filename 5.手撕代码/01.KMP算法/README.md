@@ -1,6 +1,6 @@
 # KMP算法
 
-> **KMP算法**是一种改进的字符串匹配算法，由D.E.Knuth，J.H.Morris和V.R.Pratt提出的，因此人们称它为克努特—莫里斯—普拉特操作（简称KMP算法）。KMP算法的核心是利用匹配失败后的信息，尽量减少模式串与主串的匹配次数以达到快速匹配的目的。具体实现就是通过一个next()函数实现，[函数](https://baike.baidu.com/item/函数/18686609)本身包含了模式串的局部匹配信息。KMP算法的[时间复杂度](https://baike.baidu.com/item/时间复杂度/1894057)O(m+n) 。
+> **KMP算法**是一种改进的字符串匹配算法，由D.E.Knuth，J.H.Morris和V.R.Pratt提出的，因此人们称它为克努特—莫里斯—普拉特操作（简称KMP算法）。KMP算法的核心是利用匹配失败后的信息，尽量减少模式串与主串的匹配次数以达到快速匹配的目的。具体实现就是通过一个next()函数实现，[函数](https://baike.baidu.com/item/函数/18686609)本身包含了模式串的局部匹配信息。KMP算法的[时间复杂度](https://baike.baidu.com/item/时间复杂度/1894057)为：O(m+n) 。
 >
 > —— 来自：百度百科
 
@@ -88,41 +88,7 @@
 
 ### 1.3 KMP 代码检验
 
-* 主串：`abcadaabababc`，模式串：`abababc`。得到`next`数组为：`-1 0 0 1 2 3 4 0`
-
-  ```c
-  // 第一步：aba 对应长度的 next 的值为 2，即模式串右移动 2 位
-  // a b c a d a a b a b a b c
-  // a b a b a b c
-  //       ↑
-  
-  // 第二步：a 长度对应 next 的值为 0，指针右移且模式串右移 1 位
-  // a b c a d a a b a b a b c
-  //        a b a b a b c
-  //       ↑
-  
-  // 第三步：ab 长度对应 next 的值为 1，即模式串右移动 2 位
-  // a b c a d a a b a b a b c
-  //            a b a b a b c
-  //              ↑
-  
-  // 第四步：a 对应 next 的值为 0，指针右移且模式串右移 1 位
-  // a b c a d a a b a b a b c
-  //               a b a b a b c
-  //              ↑
-  
-  // 第五步：ab 对应 next 的值为 1，即模式串右移动 1 位
-  // a b c a d a a b a b a b c
-  //                   a b a b a b c
-  //                      ↑
-  
-  // 第六步：完成匹配
-  // a b c a d a a b a b a b c
-  //                       a b a b a b c
-  //                                            ↑
-  ```
-
-* 代码验证
+* 主串：`abcadaabababc`，模式串：`abababc`。得到**模式串**的`next`数组为：`-1 0 0 1 2 3 4 0`
 
   ```c
   // 执行代码
@@ -136,7 +102,8 @@
   // 执行输出
   matched
   ```
-
+  
+  
   
 
 ## 三、参考链接
